@@ -3221,4 +3221,6 @@ input, select, textarea {
 	}
 
 
-	
+	.card {
+		height: 204px
+	}
