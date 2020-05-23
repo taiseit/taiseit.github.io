@@ -2063,7 +2063,7 @@ input, select, textarea {
 		.image.thumb {
 			text-align: center;
 		}
-
+		
 			.image.thumb:after {
 				-moz-transition: opacity 0.2s ease-in-out;
 				-webkit-transition: opacity 0.2s ease-in-out;
@@ -2117,7 +2117,7 @@ input, select, textarea {
 		.image.left, .image.right {
 			max-width: 40%;
 		}
-
+ 
 			.image.left img, .image.right img {
 				width: 100%;
 			}
@@ -2956,6 +2956,7 @@ input, select, textarea {
 				opacity: 1.0;
 			}
 
+			
 /* Touch */
 
 	body.is-touch .image.thumb:before {
@@ -3218,3 +3219,6 @@ input, select, textarea {
 			}
 
 	}
+
+
+	
