@@ -2238,6 +2238,13 @@ input, select, textarea {
 				width: 1em;
 			}
 
+/* Writing */
+	.writing {
+		list-style: none;
+		margin-left: -1em;
+		padding-left: 0.5em;
+	} 
+
 /* Actions */
 
 	ul.actions {
