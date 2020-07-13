@@ -120,6 +120,10 @@ input, select, textarea {
 			text-decoration: none;
 		}
 
+	a.contents {
+		color: #a2a2a2
+	}
+
 	strong, b {
 		color: #787878;
 		font-weight: 400;
@@ -2182,6 +2186,10 @@ input, select, textarea {
 					padding-top: 0;
 				}
 
+	ul.contents {
+		list-style-type: none;
+	}
+
 	dl {
 		margin: 0 0 2em 0;
 	}
@@ -2237,13 +2245,6 @@ input, select, textarea {
 				top: 0;
 				width: 1em;
 			}
-
-/* Writing */
-	.writing {
-		list-style: none;
-		/* margin-left: -1em;
-		padding-left: 0.5em; */
-	} 
 
 /* Actions */
 
