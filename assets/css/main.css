@@ -2188,6 +2188,7 @@ input, select, textarea {
 
 	ul.contents {
 		list-style-type: none;
+		text-decoration: underline;
 	}
 
 	dl {
